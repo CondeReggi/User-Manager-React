@@ -1,0 +1,15 @@
+.boton{
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 1rem;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.boton:hover{
+    background-color: rgb(70, 128, 235);
+}
